@@ -17,7 +17,7 @@ import { fileURLToPath } from 'node:url';
 const here = fileURLToPath(new URL('.', import.meta.url));
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
-const REFERRAL_CODE = 'dwf7n6v4';
+const REFERRAL_CODE = 'wb17y3he';
 const COMPETITION = 'bring-the-humans-02';
 
 function sha256(path) {
